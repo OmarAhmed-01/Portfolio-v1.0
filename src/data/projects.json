@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Explore Europe",
+      "imageSrc": "projects/Explore_Europe.png",
+      "description": "Exploring the magnificent continent of Europe. Learn the history, traditions and maybe gastronomy of each country withing Europe.",
+      "skills": ["React", "NodeJs", "Express", "MongoDB", "Mongoose", "CSS"],
+      "demo": "https://travel-guide-frontend.onrender.com/",
+      "source": "https://github.com/OmarAhmed-01/Travel-Guide"
+    },
+    {
+      "title": "Delivery App",
+      "imageSrc": "projects/E-Commerce.png",
+      "description": "Your on-demand culinary concierge. Enjoy gourmet meals from your favorite local restaurants, delivered to your doorstep in a flash.",
+      "skills": ["React", "NodeJs", "Express", "MongoDB", "Mongoose", "CSS"],
+      "demo": "https://deliveroo-17bc.onrender.com/",
+      "source": "https://github.com/OmarAhmed-01/Food-Delivery"
+    },
+    {
+      "title": "E-Commerce",
+      "imageSrc": "projects/Nike.png",
+      "description": "Your on-demand culinary concierge. Enjoy gourmet meals from your favorite local restaurants, delivered to your doorstep in a flash.",
+      "skills": ["React", "NodeJs", "Express", "MongoDB", "Mongoose", "CSS"],
+      "demo": "",
+      "source": "https://github.com/OmarAhmed-01/Nike"
+    },
+    {
+      "title": "Landing Page w/Tailwind",
+      "imageSrc": "projects/Landing-Page.png",
+      "description": "A Simple landing page for an e-commerece website main functionallity is demonstrate the usage of Tailwind & design flexability for mobiles",
+      "skills": ["React", "JavaScript", "Tailwind", "CSS", "HTML"],
+      "demo": "https://github.com/OmarAhmed-01/Nike-WebApp",
+      "source": "https://nike-webappp.netlify.app/"
+    },
+    {
+      "title": "Expense Tracker",
+      "imageSrc": "projects/Expense.png",
+      "description": " Your personal finance companion. Easily monitor your spending, track budgets, and stay on top of your financial goals with intuitive expense tracking tools.",
+      "skills": ["React", "JavaScript", "Node", "CSS"],
+      "demo": "https://omarahmed-01.github.io/Expense-Tracker/",
+      "source": "https://github.com/OmarAhmed-01/Expense-Tracker"
+    }
+  ]
